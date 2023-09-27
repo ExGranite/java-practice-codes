@@ -1,0 +1,23 @@
+this is a code for a Robot which will move around in a custom grid
+.
+first enter the dimensions for a rectangular grid, here length is the y coordinate, width is the x coordinate
+x and y has no negative values as the grid dimensions cannot be negative...I willingly excluded 0
+.
+the you enter the initial position of the robot and the direction it is facing (N,E,W,S)...the initial position must be inside the grid...cannot be outside
+.
+the you provide a series of instructions composed together...
+F->moves forward in the direction it is facing
+R->turns 90 degrees clockwise
+l->turns 90 degrees counter clockwise
+.
+the robot cannot executed other instructions such as "scefbr"
+.
+also, if the robot goes outside the grid because of the user's instructions, the the robot is labeled lost with its last location and direction being the only available data
+.
+after executing all the instructions, it prints out the new location and direction the robot is facing
+.
+.
+your job is to try out evrything that comes to your mind to crash the program, like giving negative dimensions, giving fake directions, wrong instructions and anything possible
+.
+P.S. this job is unpaid in every way
+also, your shit is just an entire piece of shit, it can never be better than a piece of shit, your shit is just shit
